@@ -1,2 +1,2 @@
 # spider
-a General spider
+a general spider
